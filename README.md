@@ -25,6 +25,10 @@ Images were taken from the [CelebAMask-HQ](https://github.com/switchablenorms/Ce
 
 Then theses images were filtered with `ImageFilter.FIND_EDGES`, `ImageFilter.BLUR`, `ImageFilter.SHARPEN`, `ImageOps.invert()` and `ImageEnhance.Contrast().enhance(1.5)` sequentially to produce rought sketches. Furthermore, theses rought skecthes are simplified using [Sketch Simplification](https://esslab.jp/~ess/research/sketch/).
 
+## Download Dataset
+
+Dataset is available to download through [Kaggle](https://www.kaggle.com/datasets/almightyj/person-face-sketches).
+
 ---
 
 This project was developed as part of Nodeflux Internship x Kampus Merdeka.
