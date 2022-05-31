@@ -1,0 +1,3 @@
+[submodule "sketch_simplification"]
+	path = sketch_simplification
+	url = https://github.com/Xu-Justin/sketch_simplification.git
