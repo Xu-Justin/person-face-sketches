@@ -1,0 +1,10 @@
+*.ipynb_checkpoints*
+*__pycache__*
+CelebAMask-HQ/*
+CelebAMask-HQ.zip
+person-face-sketches/*
+person-face-sketches.zip
+train/*
+val/*
+test/*
+*.pth
